@@ -7,53 +7,53 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		5AEDD2D22D45DE6300893C49 /* PBXContainerItemProxy */ = {
+		5A5EB47D2D46BA9500B48507 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 5AEDD2B02D45DE6200893C49 /* Project object */;
+			containerPortal = 5A5EB45B2D46BA9400B48507 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 5AEDD2B72D45DE6200893C49;
+			remoteGlobalIDString = 5A5EB4622D46BA9400B48507;
 			remoteInfo = MarvelDay;
 		};
-		5AEDD2DC2D45DE6300893C49 /* PBXContainerItemProxy */ = {
+		5A5EB4872D46BA9500B48507 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 5AEDD2B02D45DE6200893C49 /* Project object */;
+			containerPortal = 5A5EB45B2D46BA9400B48507 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 5AEDD2B72D45DE6200893C49;
+			remoteGlobalIDString = 5A5EB4622D46BA9400B48507;
 			remoteInfo = MarvelDay;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5AEDD2B82D45DE6200893C49 /* MarvelDay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MarvelDay.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		5AEDD2D12D45DE6300893C49 /* MarvelDayTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MarvelDayTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		5AEDD2DB2D45DE6300893C49 /* MarvelDayUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MarvelDayUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A5EB4632D46BA9400B48507 /* MarvelDay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MarvelDay.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A5EB47C2D46BA9500B48507 /* MarvelDayTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MarvelDayTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A5EB4862D46BA9500B48507 /* MarvelDayUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MarvelDayUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		5AEDD2E32D45DE6300893C49 /* Exceptions for "MarvelDay" folder in "MarvelDay" target */ = {
+		5A5EB48E2D46BA9500B48507 /* Exceptions for "MarvelDay" folder in "MarvelDay" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Resources/Info.plist,
+				Info.plist,
 			);
-			target = 5AEDD2B72D45DE6200893C49 /* MarvelDay */;
+			target = 5A5EB4622D46BA9400B48507 /* MarvelDay */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		5AEDD2BA2D45DE6200893C49 /* MarvelDay */ = {
+		5A5EB4652D46BA9400B48507 /* MarvelDay */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				5AEDD2E32D45DE6300893C49 /* Exceptions for "MarvelDay" folder in "MarvelDay" target */,
+				5A5EB48E2D46BA9500B48507 /* Exceptions for "MarvelDay" folder in "MarvelDay" target */,
 			);
 			path = MarvelDay;
 			sourceTree = "<group>";
 		};
-		5AEDD2D42D45DE6300893C49 /* MarvelDayTests */ = {
+		5A5EB47F2D46BA9500B48507 /* MarvelDayTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = MarvelDayTests;
 			sourceTree = "<group>";
 		};
-		5AEDD2DE2D45DE6300893C49 /* MarvelDayUITests */ = {
+		5A5EB4892D46BA9500B48507 /* MarvelDayUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = MarvelDayUITests;
 			sourceTree = "<group>";
@@ -61,21 +61,21 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		5AEDD2B52D45DE6200893C49 /* Frameworks */ = {
+		5A5EB4602D46BA9400B48507 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5AEDD2CE2D45DE6300893C49 /* Frameworks */ = {
+		5A5EB4792D46BA9500B48507 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5AEDD2D82D45DE6300893C49 /* Frameworks */ = {
+		5A5EB4832D46BA9500B48507 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -85,22 +85,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		5AEDD2AF2D45DE6200893C49 = {
+		5A5EB45A2D46BA9400B48507 = {
 			isa = PBXGroup;
 			children = (
-				5AEDD2BA2D45DE6200893C49 /* MarvelDay */,
-				5AEDD2D42D45DE6300893C49 /* MarvelDayTests */,
-				5AEDD2DE2D45DE6300893C49 /* MarvelDayUITests */,
-				5AEDD2B92D45DE6200893C49 /* Products */,
+				5A5EB4652D46BA9400B48507 /* MarvelDay */,
+				5A5EB47F2D46BA9500B48507 /* MarvelDayTests */,
+				5A5EB4892D46BA9500B48507 /* MarvelDayUITests */,
+				5A5EB4642D46BA9400B48507 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		5AEDD2B92D45DE6200893C49 /* Products */ = {
+		5A5EB4642D46BA9400B48507 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5AEDD2B82D45DE6200893C49 /* MarvelDay.app */,
-				5AEDD2D12D45DE6300893C49 /* MarvelDayTests.xctest */,
-				5AEDD2DB2D45DE6300893C49 /* MarvelDayUITests.xctest */,
+				5A5EB4632D46BA9400B48507 /* MarvelDay.app */,
+				5A5EB47C2D46BA9500B48507 /* MarvelDayTests.xctest */,
+				5A5EB4862D46BA9500B48507 /* MarvelDayUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -108,134 +108,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5AEDD2B72D45DE6200893C49 /* MarvelDay */ = {
+		5A5EB4622D46BA9400B48507 /* MarvelDay */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5AEDD2E42D45DE6300893C49 /* Build configuration list for PBXNativeTarget "MarvelDay" */;
+			buildConfigurationList = 5A5EB48F2D46BA9500B48507 /* Build configuration list for PBXNativeTarget "MarvelDay" */;
 			buildPhases = (
-				5AEDD2B42D45DE6200893C49 /* Sources */,
-				5AEDD2B52D45DE6200893C49 /* Frameworks */,
-				5AEDD2B62D45DE6200893C49 /* Resources */,
+				5A5EB45F2D46BA9400B48507 /* Sources */,
+				5A5EB4602D46BA9400B48507 /* Frameworks */,
+				5A5EB4612D46BA9400B48507 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				5AEDD2BA2D45DE6200893C49 /* MarvelDay */,
+				5A5EB4652D46BA9400B48507 /* MarvelDay */,
 			);
 			name = MarvelDay;
 			packageProductDependencies = (
 			);
 			productName = MarvelDay;
-			productReference = 5AEDD2B82D45DE6200893C49 /* MarvelDay.app */;
+			productReference = 5A5EB4632D46BA9400B48507 /* MarvelDay.app */;
 			productType = "com.apple.product-type.application";
 		};
-		5AEDD2D02D45DE6300893C49 /* MarvelDayTests */ = {
+		5A5EB47B2D46BA9500B48507 /* MarvelDayTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5AEDD2E92D45DE6300893C49 /* Build configuration list for PBXNativeTarget "MarvelDayTests" */;
+			buildConfigurationList = 5A5EB4942D46BA9500B48507 /* Build configuration list for PBXNativeTarget "MarvelDayTests" */;
 			buildPhases = (
-				5AEDD2CD2D45DE6300893C49 /* Sources */,
-				5AEDD2CE2D45DE6300893C49 /* Frameworks */,
-				5AEDD2CF2D45DE6300893C49 /* Resources */,
+				5A5EB4782D46BA9500B48507 /* Sources */,
+				5A5EB4792D46BA9500B48507 /* Frameworks */,
+				5A5EB47A2D46BA9500B48507 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				5AEDD2D32D45DE6300893C49 /* PBXTargetDependency */,
+				5A5EB47E2D46BA9500B48507 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				5AEDD2D42D45DE6300893C49 /* MarvelDayTests */,
+				5A5EB47F2D46BA9500B48507 /* MarvelDayTests */,
 			);
 			name = MarvelDayTests;
 			packageProductDependencies = (
 			);
 			productName = MarvelDayTests;
-			productReference = 5AEDD2D12D45DE6300893C49 /* MarvelDayTests.xctest */;
+			productReference = 5A5EB47C2D46BA9500B48507 /* MarvelDayTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		5AEDD2DA2D45DE6300893C49 /* MarvelDayUITests */ = {
+		5A5EB4852D46BA9500B48507 /* MarvelDayUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5AEDD2EC2D45DE6300893C49 /* Build configuration list for PBXNativeTarget "MarvelDayUITests" */;
+			buildConfigurationList = 5A5EB4972D46BA9500B48507 /* Build configuration list for PBXNativeTarget "MarvelDayUITests" */;
 			buildPhases = (
-				5AEDD2D72D45DE6300893C49 /* Sources */,
-				5AEDD2D82D45DE6300893C49 /* Frameworks */,
-				5AEDD2D92D45DE6300893C49 /* Resources */,
+				5A5EB4822D46BA9500B48507 /* Sources */,
+				5A5EB4832D46BA9500B48507 /* Frameworks */,
+				5A5EB4842D46BA9500B48507 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				5AEDD2DD2D45DE6300893C49 /* PBXTargetDependency */,
+				5A5EB4882D46BA9500B48507 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				5AEDD2DE2D45DE6300893C49 /* MarvelDayUITests */,
+				5A5EB4892D46BA9500B48507 /* MarvelDayUITests */,
 			);
 			name = MarvelDayUITests;
 			packageProductDependencies = (
 			);
 			productName = MarvelDayUITests;
-			productReference = 5AEDD2DB2D45DE6300893C49 /* MarvelDayUITests.xctest */;
+			productReference = 5A5EB4862D46BA9500B48507 /* MarvelDayUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		5AEDD2B02D45DE6200893C49 /* Project object */ = {
+		5A5EB45B2D46BA9400B48507 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
-					5AEDD2B72D45DE6200893C49 = {
+					5A5EB4622D46BA9400B48507 = {
 						CreatedOnToolsVersion = 16.0;
 					};
-					5AEDD2D02D45DE6300893C49 = {
+					5A5EB47B2D46BA9500B48507 = {
 						CreatedOnToolsVersion = 16.0;
-						TestTargetID = 5AEDD2B72D45DE6200893C49;
+						TestTargetID = 5A5EB4622D46BA9400B48507;
 					};
-					5AEDD2DA2D45DE6300893C49 = {
+					5A5EB4852D46BA9500B48507 = {
 						CreatedOnToolsVersion = 16.0;
-						TestTargetID = 5AEDD2B72D45DE6200893C49;
+						TestTargetID = 5A5EB4622D46BA9400B48507;
 					};
 				};
 			};
-			buildConfigurationList = 5AEDD2B32D45DE6200893C49 /* Build configuration list for PBXProject "MarvelDay" */;
+			buildConfigurationList = 5A5EB45E2D46BA9400B48507 /* Build configuration list for PBXProject "MarvelDay" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 5AEDD2AF2D45DE6200893C49;
+			mainGroup = 5A5EB45A2D46BA9400B48507;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 5AEDD2B92D45DE6200893C49 /* Products */;
+			productRefGroup = 5A5EB4642D46BA9400B48507 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5AEDD2B72D45DE6200893C49 /* MarvelDay */,
-				5AEDD2D02D45DE6300893C49 /* MarvelDayTests */,
-				5AEDD2DA2D45DE6300893C49 /* MarvelDayUITests */,
+				5A5EB4622D46BA9400B48507 /* MarvelDay */,
+				5A5EB47B2D46BA9500B48507 /* MarvelDayTests */,
+				5A5EB4852D46BA9500B48507 /* MarvelDayUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		5AEDD2B62D45DE6200893C49 /* Resources */ = {
+		5A5EB4612D46BA9400B48507 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5AEDD2CF2D45DE6300893C49 /* Resources */ = {
+		5A5EB47A2D46BA9500B48507 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5AEDD2D92D45DE6300893C49 /* Resources */ = {
+		5A5EB4842D46BA9500B48507 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -245,21 +245,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		5AEDD2B42D45DE6200893C49 /* Sources */ = {
+		5A5EB45F2D46BA9400B48507 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5AEDD2CD2D45DE6300893C49 /* Sources */ = {
+		5A5EB4782D46BA9500B48507 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5AEDD2D72D45DE6300893C49 /* Sources */ = {
+		5A5EB4822D46BA9500B48507 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -269,29 +269,31 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		5AEDD2D32D45DE6300893C49 /* PBXTargetDependency */ = {
+		5A5EB47E2D46BA9500B48507 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5AEDD2B72D45DE6200893C49 /* MarvelDay */;
-			targetProxy = 5AEDD2D22D45DE6300893C49 /* PBXContainerItemProxy */;
+			target = 5A5EB4622D46BA9400B48507 /* MarvelDay */;
+			targetProxy = 5A5EB47D2D46BA9500B48507 /* PBXContainerItemProxy */;
 		};
-		5AEDD2DD2D45DE6300893C49 /* PBXTargetDependency */ = {
+		5A5EB4882D46BA9500B48507 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5AEDD2B72D45DE6200893C49 /* MarvelDay */;
-			targetProxy = 5AEDD2DC2D45DE6300893C49 /* PBXContainerItemProxy */;
+			target = 5A5EB4622D46BA9400B48507 /* MarvelDay */;
+			targetProxy = 5A5EB4872D46BA9500B48507 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		5AEDD2E52D45DE6300893C49 /* Debug */ = {
+		5A5EB4902D46BA9500B48507 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = N6792SP6RP;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MarvelDay/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = MarvelDay;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -310,16 +312,18 @@
 			};
 			name = Debug;
 		};
-		5AEDD2E62D45DE6300893C49 /* Release */ = {
+		5A5EB4912D46BA9500B48507 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = N6792SP6RP;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MarvelDay/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = MarvelDay;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -338,7 +342,7 @@
 			};
 			name = Release;
 		};
-		5AEDD2E72D45DE6300893C49 /* Debug */ = {
+		5A5EB4922D46BA9500B48507 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -401,7 +405,7 @@
 			};
 			name = Debug;
 		};
-		5AEDD2E82D45DE6300893C49 /* Release */ = {
+		5A5EB4932D46BA9500B48507 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -457,7 +461,7 @@
 			};
 			name = Release;
 		};
-		5AEDD2EA2D45DE6300893C49 /* Debug */ = {
+		5A5EB4952D46BA9500B48507 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -476,7 +480,7 @@
 			};
 			name = Debug;
 		};
-		5AEDD2EB2D45DE6300893C49 /* Release */ = {
+		5A5EB4962D46BA9500B48507 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -495,7 +499,7 @@
 			};
 			name = Release;
 		};
-		5AEDD2ED2D45DE6300893C49 /* Debug */ = {
+		5A5EB4982D46BA9500B48507 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -512,7 +516,7 @@
 			};
 			name = Debug;
 		};
-		5AEDD2EE2D45DE6300893C49 /* Release */ = {
+		5A5EB4992D46BA9500B48507 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -532,43 +536,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5AEDD2B32D45DE6200893C49 /* Build configuration list for PBXProject "MarvelDay" */ = {
+		5A5EB45E2D46BA9400B48507 /* Build configuration list for PBXProject "MarvelDay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5AEDD2E72D45DE6300893C49 /* Debug */,
-				5AEDD2E82D45DE6300893C49 /* Release */,
+				5A5EB4922D46BA9500B48507 /* Debug */,
+				5A5EB4932D46BA9500B48507 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5AEDD2E42D45DE6300893C49 /* Build configuration list for PBXNativeTarget "MarvelDay" */ = {
+		5A5EB48F2D46BA9500B48507 /* Build configuration list for PBXNativeTarget "MarvelDay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5AEDD2E52D45DE6300893C49 /* Debug */,
-				5AEDD2E62D45DE6300893C49 /* Release */,
+				5A5EB4902D46BA9500B48507 /* Debug */,
+				5A5EB4912D46BA9500B48507 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5AEDD2E92D45DE6300893C49 /* Build configuration list for PBXNativeTarget "MarvelDayTests" */ = {
+		5A5EB4942D46BA9500B48507 /* Build configuration list for PBXNativeTarget "MarvelDayTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5AEDD2EA2D45DE6300893C49 /* Debug */,
-				5AEDD2EB2D45DE6300893C49 /* Release */,
+				5A5EB4952D46BA9500B48507 /* Debug */,
+				5A5EB4962D46BA9500B48507 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5AEDD2EC2D45DE6300893C49 /* Build configuration list for PBXNativeTarget "MarvelDayUITests" */ = {
+		5A5EB4972D46BA9500B48507 /* Build configuration list for PBXNativeTarget "MarvelDayUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5AEDD2ED2D45DE6300893C49 /* Debug */,
-				5AEDD2EE2D45DE6300893C49 /* Release */,
+				5A5EB4982D46BA9500B48507 /* Debug */,
+				5A5EB4992D46BA9500B48507 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 5AEDD2B02D45DE6200893C49 /* Project object */;
+	rootObject = 5A5EB45B2D46BA9400B48507 /* Project object */;
 }
